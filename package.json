@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "make sns backend",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chansooo/snsnode.git"
+  },
   "scripts": {
     "start": "nodemon app"
   },
